@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Koko RPG Kit/Scenes/3.Field.unity
+  isLoaded: 1
+  isActive: 1

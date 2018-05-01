@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a68daaf78cb7bba49a2fdda4d8b9bfce
+timeCreated: 1523696527
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_icon: {instanceID: 0}
+  - m_removeButton: {instanceID: 0}
+  - m_itemDescText: {instanceID: 0}
+  - use: {fileID: 8300000, guid: 537a1fc019b205742a678febeaf64227, type: 3}
+  - flip: {fileID: 8300000, guid: ea3a0eba4aca299468f7094eccedf28a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

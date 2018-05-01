@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89ff8a9fda8bdf44489e3e1bd04effce, type: 3}
+  m_Name: Power Source Potion
+  m_EditorClassIdentifier: 
+  name: Power Source
+  description: Str + 5 for 1 minute only
+  icon: {fileID: 21300000, guid: 14590ba778ccf4a4180de3fb9b1b30dc, type: 3}
+  isDefaultItem: 0
+  additionalStat: 5

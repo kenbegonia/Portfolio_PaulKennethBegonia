@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 408da4d40b754d844afa47f2850ad0ae, type: 3}
+  m_Name: Health Potion Small
+  m_EditorClassIdentifier: 
+  name: Health Potion (S)
+  description: A small potion that restores 10HP.
+  icon: {fileID: 21300000, guid: 67d4850461521024e870d89f523721ae, type: 3}
+  isDefaultItem: 0
+  restorePoints: 10
+  cost: 5
