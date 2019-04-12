@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a4f161765729f1847bad5bfe5f8d78fe
+timeCreated: 1554907818
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neon Absolute Sans
+  fontNames:
+  - Neon Absolute Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
